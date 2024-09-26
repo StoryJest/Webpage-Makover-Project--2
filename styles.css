@@ -1,11 +1,11 @@
 body {
-    background-color: #f5f5f5;
+    background-color: #130a8f;
     font-family: 'Arial', sans-serif;
 }
 
 .container {
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #004c8a;
+    border: 1px solid #3ce7f3;
     padding: 40px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
